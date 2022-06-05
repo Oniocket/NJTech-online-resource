@@ -85,6 +85,18 @@
 - [njtech.fanya.chaoxing.com](https://njtech.fanya.chaoxing.com/)   （网络教学平台）
   
   很多校内网络视频课
+
+- [git.njtech.edu.cn](https://git.njtech.edu.cn) （GitLab服务）
+  
+  校内代码托管平台，仅限校内访问
+
+- [yx.njtech.edu.cn](https://yx.njtech.edu.cn) （迎新管理系统）
+  
+  新生报道相关
+
+- [hub.njtech.edu.cn](https://hub.njtech.edu.cn) （docker镜像管理系统）
+  
+  （有待补充）
   
   -----
 
