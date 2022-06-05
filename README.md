@@ -90,14 +90,14 @@
 
 #### 四、已关停的服务
 
-- ~~[bbs.njtech.edu.cn](bbs.njtech.edu.cn) (玄武雅阁)~~
+- ~~[bbs.njtech.edu.cn](https://bbs.njtech.edu.cn) (玄武雅阁)~~
 
         南工大校园BBS
 
-- ~~[pt.njtech.edu.cn](pt.njtech.edu.cn) (南工pt站)~~
+- ~~[pt.njtech.edu.cn](https://pt.njtech.edu.cn) (南工pt站)~~
   
   （存在疑问）不确定域名是否是这个。
-
+  
   ----
 
 ##### 欢迎补充!
